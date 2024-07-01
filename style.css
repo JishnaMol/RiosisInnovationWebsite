@@ -26,8 +26,8 @@ header {
 }
 
 .logo img {
-  max-width: 100%;
-  height: auto;
+  max-width: 127px;
+  height: 107px;
 }
 
 .navigation {
