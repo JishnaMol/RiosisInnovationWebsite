@@ -105,6 +105,7 @@ nav ul li a {
 
 .section-content p {
   font-size: 16px;
+  align-items: center;
 }
 
 
@@ -132,8 +133,8 @@ nav ul li a {
 
 
 .section-image img {
-  width: 126px;
-  height: 107px;
+  width: 600px;
+  height: 407px;
   /*max-width: 400px;
   max-height: 300px;*/
   border-radius: 50px;
@@ -148,8 +149,8 @@ nav ul li a {
 .who-we-are .section-image img {
   /*max-width: 400px; /* Reduce the image size */
   /*max-height: 300px; /* Reduce the image size */
-  width: 127px;
-  height: 106px;
+  width: 600px;
+  height: 406px;
   border-radius: 50px;
 }
 
